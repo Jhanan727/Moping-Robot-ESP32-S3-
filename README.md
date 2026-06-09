@@ -5,7 +5,7 @@
 
 ## Inspiration / Reference Ideas
   
-  [<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/2f6f3a67-d713-4d2c-9018-d1df5c03a047" />]
+  <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/2f6f3a67-d713-4d2c-9018-d1df5c03a047" />
 - [Havi Floor Cleaner Project](https://www.havi.co/blogs/floor-cleaner-project?srsltid=AfmBOoqOccJ5COKm2vzfY6Hxk0a07Qe32Pf9K7XTadpMRjth3KNCQVvt)
 
 (https://i.ytimg.com/vi/X3OkfQ8OLaM/maxresdefault.jpg))
