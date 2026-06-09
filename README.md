@@ -62,7 +62,6 @@ The chosen material must be robust enough to withstand crashes or drops. Structu
 
 - [ ] Design chassis options (compact and simple for first prototype)
 - [ ] Design mopping mechanics
-- [ ] Create a **Flowchart/FCM** using [Mermaid Live](https://mermaid.live) for the embedded systems professor
 - [ ] Iterate on designs collaboratively
 
 ---
