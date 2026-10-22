@@ -1,5 +1,5 @@
 # Moping-Robot with a ESP32-S3
-**Authors:** Alishba & Jhanan Vaca
+**Authors:** Jhanan Vaca
 
 ---
 
