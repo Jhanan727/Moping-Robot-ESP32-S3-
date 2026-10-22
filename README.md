@@ -125,6 +125,4 @@ Tracked as [GitHub Issues](../../issues):
 
 See [`docs/LOGBOOK.md`](docs/LOGBOOK.md).
 
-## License
 
-`[MIT for code / choose one; ask Alishba since she co-authored the early docs]`
