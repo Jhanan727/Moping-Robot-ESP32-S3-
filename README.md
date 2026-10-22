@@ -3,7 +3,7 @@
 Differential-drive prototype for a small mopping robot: an **ESP32-S3** drives two DC gear motors through a **TB6612FNG** driver, programmed with the **Arduino IDE**.
 **Status: work in progress.** Motor driving works on a breadboard; PWM speed control, sensors and the state machine are not done yet (see [Status](#status)).
 
-Course project, *Embedded Systems*, SRH University (5th semester). Started as a two-person project with Alishba; continued by Jhanan Vaca. <!-- [CONFIRM wording: who did what] -->
+Course project, *Embedded Systems*, SRH University (5th semester)
 
 <p>
   <img src="docs/photos/first-motor-driver-test-1.jpeg" width="30%" alt="First test: ESP32-S3, TB6612FNG and two motors on a breadboard">
